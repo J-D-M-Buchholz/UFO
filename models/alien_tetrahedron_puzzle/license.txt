@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alien Tetrahedron Puzzle
+* source:	https://sketchfab.com/3d-models/alien-tetrahedron-puzzle-48bf06f7ec034de3bf3e134faa1b94de
+* author:	markus.blend (https://sketchfab.com/markus.blend)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alien Tetrahedron Puzzle" (https://sketchfab.com/3d-models/alien-tetrahedron-puzzle-48bf06f7ec034de3bf3e134faa1b94de) by markus.blend (https://sketchfab.com/markus.blend) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
